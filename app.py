@@ -1,10 +1,10 @@
 import streamlit as st
 
 books = [
-"Chemistry book"
-"The Hobbit"
-"The Great Gatsby"
-"1984"
+"Chemistry book",
+"The Hobbit",
+"The Great Gatsby",
+"1984",
 "Pride and Prejudice"
 ]
 
